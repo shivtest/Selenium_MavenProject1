@@ -125,9 +125,11 @@ public class Person extends People{
       for (int i = 0; i < arrList.size(); i++) {    	  
     	  System.out.println(arrList.get(i));
       }
+
       
       Set<String> hashSet = new HashSet<String>();
-      
+
+	// Takes only Unique Strings      
       hashSet.add("shiv");
       hashSet.add("kumar");
       
