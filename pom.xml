@@ -6,10 +6,15 @@
   
 
 <dependencies>  
-  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	<!--		
+	https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java 
+comment
+	-->
+
 	<dependency>
     	<groupId>org.seleniumhq.selenium</groupId>
-    	<artifactId>selenium-java</artifactId>
+	
+	<artifactId>selenium-java</artifactId>
     	<version>4.2.2</version>
 	</dependency>
 
